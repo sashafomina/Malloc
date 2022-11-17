@@ -7,8 +7,7 @@ Main Files:
 ***********
 
 mm.c
-	Your solution malloc package. This is the file that you
-	will be handing in, and is the only file you should modify.
+	My solution malloc package.
 
 mdriver.c	
 	The malloc driver that tests your mm.c file
